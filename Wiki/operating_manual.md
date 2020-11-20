@@ -43,9 +43,17 @@ These are operations that are completed before the launch and chase teams leave 
 These operations cover assembling the flight vehicle and attaching the payload(s).
 
 * ***FHPOM 2.1*** Weigh each component of the flight vehicle to ensure that it’s not over 12 lbs total, and that no single component weighs more than 6 lbs. Enter this information in the "PAYLOAD WEIGHTS" section of the [Flight Log Sheet](https://github.com/jmwright/far-horizons-project/tree/main/Documents/Operations_Documents).
-![Weighing each component](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/4-weighing%20the%20frame%20two-%20FH%20Prelaunch%20Setup%20Assembly%20Part%202.jpg)
+
+[![Weighing each component](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/4-weighing%20the%20frame%20two-%20FH%20Prelaunch%20Setup%20Assembly%20Part%202%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/4-weighing%20the%20frame%20two-%20FH%20Prelaunch%20Setup%20Assembly%20Part%202.jpg)
 * ***FHPOM 2.2*** Calculate the amount of lift needed based on payload weight(s) and ascent rate.
 * ***FHPOM 2.3*** Set up a workspace by laying out the ground tarp and ensuring that it is clean and free of debris, oils, etc. “Clean is key”.
-![Ground tarp](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20ground%20tarp.jpg)
+
+[![Ground tarp](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20ground%20tarp%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20ground%20tarp.jpg)
 * ***FHPOM 2.4*** Lay the helium tanks on one side of the tarp to help keep it from blowing away.
-![K helium tank](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20K%20helium%20tank.jpg)
+
+[![K helium tank](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20K%20helium%20tank%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20K%20helium%20tank.jpg)
+* ***FHPOM 2.5*** Remove the safety cover from the helium tank(s).
+* ***FHPOM 2.6*** Attach the custom built fill connector’s regulator to the first helium tank.
+
+[![Helium fill nozzle](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20fill%20nozzle%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20fill%20nozzle.jpg)
+[![Regulator on helium tank](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20regulator%20on%20helium%20tank%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20regulator%20on%20helium%20tank.jpg)
