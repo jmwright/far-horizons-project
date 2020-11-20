@@ -57,3 +57,50 @@ These operations cover assembling the flight vehicle and attaching the payload(s
 
 [![Helium fill nozzle](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20fill%20nozzle%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20fill%20nozzle.jpg)
 [![Regulator on helium tank](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20regulator%20on%20helium%20tank%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20regulator%20on%20helium%20tank.jpg)
+
+* ***FHPOM 2.7*** Use a crescent wrench to tighten (snug) the regulator’s connector to the tank’s valve.
+* ***FHPOM 2.8*** All personnel who help steady the balloon should wear cotton gloves to help protect the balloon.
+* ***FHPOM 2.9*** Keep the balloon from coming in contact with anything except cotton gloves during fill and launch.
+* ***FHPOM 2.10*** Open up the balloon bag and unroll the balloon away from you with the open neck closest to the helium tanks.
+* ***FHPOM 2.11*** Slip the 2” steel attachment ring onto the neck of the balloon.
+
+[![Attachment ring](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/10-ring-%20FH%20Prelaunch%2C%20Setup%2C%20Assembly%20Part%203%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/10-ring-%20FH%20Prelaunch%2C%20Setup%2C%20Assembly%20Part%203.jpg)
+
+* ***FHPOM 2.12*** Slide the neck of the balloon over the 1” outlet throat of the fill connector.
+* ***FHPOM 2.13*** Wrap the neck of the balloon and tape it securely to the fill connector, making sure to leave a folded tab at the end so that you can remove the tape later. You’re securing it against about 20 lbs of pull. Use one continuous wrap that goes down the neck, overlaps the fill connector body, and then goes back up the neck of the balloon.
+
+[![Duct taping balloon neck to fill nozzle](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20duct%20taping%20balloon%20neck%20to%20fill%20nozzle%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20duct%20taping%20balloon%20neck%20to%20fill%20nozzle.jpg))
+[![Balloon attached to fill nozzle](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20attached%20to%20fill%20nozzle%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20attached%20to%20fill%20nozzle.jpg)
+
+* ***FHPOM 2.14*** Open the main valve directly attached to the helium tank, and then open the secondary regulator.
+    * ***FHPOM 2.14.1*** For a 1200 gram balloon and a K size tank, you’ll add approximately 1-1/2 tanks of helium to the balloon.
+* ***FHPOM 2.15*** When switching helium tanks, make sure to close the main valve on the tank first before closing the secondary regulator. Otherwise pressure could get trapped in the secondary regulator’s body that is then released forcefully when the connector is loosened with the crescent wrench.
+* ***FHPOM 2.16*** As the balloon inflates the fill connector’s paracord loop can be attached to a helium tank’s valve to hold it down.
+* ***FHPOM 2.17*** The paracord loop on the fill connector can be attached to the empty helium tank when switching to the second tank.
+
+[![Balloon tethered](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20tethered%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20tethered.jpg)
+[![Baloon tethered to empty tank](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20tethered%20to%20empty%20tank%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20tethered%20to%20empty%20tank.jpg)
+
+* ***FHPOM 2.18*** When filling the balloon in an outdoor location, use a clean tulle “tarp” to cover the balloon and keep it stationary.
+* ***FHPOM 2.19*** During filling one person with leather gloves can hold the fill connector, wrapping the para cord around the wrist of their leather glove, and two people with cotton gloves should be on either side of the balloon to keep it from blowing around.
+
+[![Balloon upright](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20upright%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Prelaunch%20Setup%20and%20Assembly%20Part%201%20-%20balloon%20upright.jpg)
+
+* ***FHPOM 2.20*** Use a luggage scale to measure the lift of the balloon. Make sure to take the weight of the fill connector into account when doing this. Adler puts a line on the hose leading up to the fill connector’s PVC main body, and they have measured the weight of that part of the connector. When measuring the lift, they pull the balloon down to where the line on the hose touches the ground as they’re measuring the lift.
+
+[![Measuring the lift](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/1-attaching%20fishscale%20to%20balloon%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/1-attaching%20fishscale%20to%20balloon%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203.jpg)
+
+* ***FHPOM 2.21*** Once the balloon is filled to the proper generate the proper amount of lift, double the neck over and duct tape it securely before removing the fill nozzle.
+    * ***FHPOM 2.21.1*** Make sure that the steel ring is at the bottom of the neck's loop so that the rest of the launch vehicle can be attached.
+
+[![Taping balloon neck in U shape](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/12-Taping%20balloon%20neck%20and%20fill%20nozzle%20into%20a%20U%20shape-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/12-Taping%20balloon%20neck%20and%20fill%20nozzle%20into%20a%20U%20shape-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203.jpg)
+
+* ***FHPOM 2.22*** Make sure to use 50 lb rate zip ties to secure the payload(s) to the train line or frame.
+* ***FHPOM 2.23*** Ensure that all your equipment with a contact number, what it is, etc.
+* ***FHPOM 2.24*** Attach the parachute to the tubular payload platform.
+
+[![Parachute tied to corners of frame](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/14-Parachute%20tied%20to%20corners%20of%20frame%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/14-Parachute%20tied%20to%20corners%20of%20frame%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203.jpg)
+
+* ***FHPOM 2.25*** Attach the tubular payload platform to the steel ring on the looped neck of the balloon via the parachute using a 50 pound zip tie.
+
+[![Attaching parachute to balloon](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/15-attaching%20parachute%20to%20balloon%2050%20lb%20test%20zip%20tie%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/15-attaching%20parachute%20to%20balloon%2050%20lb%20test%20zip%20tie%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203.jpg)
