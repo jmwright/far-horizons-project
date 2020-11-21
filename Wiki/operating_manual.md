@@ -1,5 +1,12 @@
 # Operating Manual
 
+Contents
+* [Equipment Checklist](#equipment-checklist)
+* [1.0 Pre-Departure Operations](#10-pre-departure-operations)
+* [2.0 Setup Operations](#20-setup-operations)
+* [3.0 Launch Operations](#30-launch-operations)
+* [4.0 Chase and Recovery Operations](#40-chase-and-recovery-operations)
+
 The items below have been gleaned from meeting notes and video obtained during the Far Horizons design meetings and launch.
 
 TODO: These need to be put in the correct order and formed into a proper set of procedures. A format for the procedures needs to be decided on for this page.
@@ -104,3 +111,25 @@ These operations cover assembling the flight vehicle and attaching the payload(s
 * ***FHPOM 2.25*** Attach the tubular payload platform to the steel ring on the looped neck of the balloon via the parachute using a 50 pound zip tie.
 
 [![Attaching parachute to balloon](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/15-attaching%20parachute%20to%20balloon%2050%20lb%20test%20zip%20tie%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/15-attaching%20parachute%20to%20balloon%2050%20lb%20test%20zip%20tie%20-%20FH%20Prelaunch%20Setup%20and%20Assembly%20Part%203.jpg)
+
+## 3.0 Launch Operations
+
+* ***FHPOM 3.1*** When launching the balloon in an outdoor location, use a clean tulle “tarp” to cover the balloon and keep it stationary.
+* ***FHPOM 3.2*** After filling, and during transfer to the launch location, make sure that the balloon does not touch the ground due to wind or mishandling or it may burst.
+* ***FHPOM 3.3*** Ensure that the parachute and payload line(s) are not tangled or twisted prior to release.
+* ***FHPOM 3.4*** Move the flight vehicle to an open area, ensure that nobody is caught on the FV in any way or going to be injured by the release of the FV, and then release the balloon and the payload platform.
+
+![Balloon just after release](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far_Horizons_HAB_Launch_Release_June_2012_SMALL.jpg)
+
+## 4.0 Chase and Recovery Operations
+
+* ***FHPOM 4.1*** The chase vehicles will be decided by what’s available and how many people are participating in the chase and recovery operations.
+* ***FHPOM 4.2*** In certain rugged or isolated areas, 4 wheel drive chase vehicles may be required.
+* ***FHPOM 4.3*** At least one chase vehicle needs to have an APRS capable receiver setup suitable to track the balloon platform’s real-time location.
+
+[![Kenwood HAM radio](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Kenwood%20HAM%20radio%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Kenwood%20HAM%20radio.jpg)
+[![Kenwood TM-D700 ham radio](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Kenwood%20TM-D700%20HAM%20radio%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Kenwood%20TM-D700%20HAM%20radio.jpg)
+[![Power inverter](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Power%20Inverter%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Power%20Inverter.jpg)
+[![Splitter for cigarette lighter power port](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Y%20splitter%20for%20cig%20lighter%20SMALL.jpg)](https://github.com/jmwright/far-horizons-project/raw/main/Documents/Images/Still_Frames/Far%20Horizons%20HAB%20-%20Tracking%20Equipment%20Initial%20Setup%20Part%202%20-%20Y%20splitter%20for%20cig%20lighter.jpg)
+
+* ***FHPOM 4.4*** Use the flight path from the predictive software to get a general idea of where to track/search.
