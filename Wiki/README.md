@@ -27,6 +27,8 @@ The Far Horizons platform is just that, more of a floating "platform" with a fra
 4. [Budget](budget.md)
 5. [Disposal](disposal.md)
 6. [Meeting Minutes](meeting_minutes.md)
+    1. [Initial Questions - Meeting 1](meeting_minutes_initial_questions.md)
+    2. [Block Diagram - Meeting 2](meeting_minutes_block_diagram.md)
 
 ### Misc
 1. [Related Videos](related_videos.md)
