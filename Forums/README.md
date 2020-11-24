@@ -1,5 +1,4 @@
 # Forums
 
-* [Design Discussions](Design_Discussions)
-* [Build Discussions](Build_Discussions)
-* [General Discussions](General_Discussions)
+* [Design Discussions](https://github.com/jmwright/far-horizons-project/tree/main/Forums/Design_Discussions)
+* [General Discussions](https://github.com/jmwright/far-horizons-project/tree/main/Forums/General_Discussions)

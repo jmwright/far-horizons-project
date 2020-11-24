@@ -41,8 +41,8 @@ Here are some links from Ken Walczak from Adler Planetarium.
 7.b. http://nearspaceventures.com/w3Baltrak/readyget.pl
 8. [GPS tracking units that transmit a 5W signal on the 2-meter (144MHz) HAM radio band](http://www.bigredbee.com/blgps_2mhp.htm)
 
-* [BorealisHABGuide.pdf]() (2.7 MB)
-* [CFR-2011-title14-vol2-part101.pdf]() (159.8 kB) 
+* [BorealisHABGuide.pdf](https://github.com/jmwright/far-horizons-project/blob/main/Documents/Forums_Documents/BorealisHABGuide.pdf) (2.7 MB)
+* [CFR-2011-title14-vol2-part101.pdf](https://github.com/jmwright/far-horizons-project/blob/main/Documents/Forums_Documents/CFR-2011-title14-vol2-part101.pdf) (159.8 kB) 
 
 ## RE: Resources - Added by J. Simmons over 8 years ago 
 
