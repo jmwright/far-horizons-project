@@ -8,3 +8,4 @@ There are two locations containing the documentation from the original project.
 
 1. The documentation originally available under DMSF in Open Design Engine is available in the [Documents](https://github.com/jmwright/far-horizons-project/tree/main/Documents) directory.
 2. The wiki is contained within the [Wiki](https://github.com/jmwright/far-horizons-project/tree/main/Wiki) directory, and has been modified for GitHub markdown compatibility and image locations.
+3. Forum discussions are contained within the [Forums](https://github.com/jmwright/far-horizons-project/tree/main/Forums) directory, and have been modified for GitHub markdown compatibility as well.
